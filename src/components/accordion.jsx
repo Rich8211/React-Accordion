@@ -9,10 +9,10 @@ const Accordion = () => {
             header: 'Lorem ipsum dolor sit amet.',
             body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
         },
-        // {
-        //     header: 'Lorem ipsum dolor sit amet.',
-        //     body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
-        // }
+        {
+            header: 'Lorem ipsum dolor sit amet.',
+            body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+        }
     ]
 
     return (
